@@ -1,2 +1,2 @@
 # php
-Standalone PHP scripts
+Standalone custom PHP scripts
